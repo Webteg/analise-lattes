@@ -1,0 +1,841 @@
+nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, color VARCHAR
+0,0339496971217162,Thiago Henrique Bragato Barros,[Sem rotulo],,,2.2309496,45,17,1,20,4,3,0,'23,39,43'
+1,0359953481264856,Maria Odila Kahl Fonseca,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+2,0399534120128418,Claudio Dutra Crespo,[Sem rotulo],,,0.15,10,8,0,0,2,0,0,'23,39,43'
+3,0478055330800827,Patricia Dias De Rossi,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+4,0483300518899608,Luciana Balan,[Sem rotulo],,,0.15,14,14,0,0,0,0,0,'23,39,43'
+5,0485834527095365,Antonio Carlos Monte,[Sem rotulo],,,0.15,3,0,0,0,0,0,3,'23,39,43'
+6,0488653952117827,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1C,[Sem rotulo],,,0.9298405,109,17,14,35,43,0,0,'23,39,43'
+7,0497687204682830,Sayonara Rodrigues do Nascimento Santana,[Sem rotulo],,,0.15,3,1,0,1,0,0,1,'23,39,43'
+8,0513059117476894,Ana Maria Barcellos Malin,[Sem rotulo],,,0.48904875,14,1,0,2,10,0,1,'23,39,43'
+9,0520024683403735,Heloisa Liberalli Bellotto,[Sem rotulo],,,0.34422404,14,6,2,6,0,0,0,'23,39,43'
+10,0552951668052079,Vanderlei Batista dos Santos,[Sem rotulo],,,1.0,10,2,4,3,1,0,0,'23,39,43'
+11,0571407587281496,Andressa Furtado da Silva de Aguiar,[Sem rotulo],,,0.5749248,4,1,1,0,2,0,0,'23,39,43'
+12,0595902218898376,Jorge Alberto Soares Cruz,[Sem rotulo],,,1.2039212,21,6,0,3,5,0,7,'23,39,43'
+13,0612174652297039,Tiago Portella Otto,[Sem rotulo],,,0.15,3,0,1,1,1,0,0,'23,39,43'
+14,0668531706514549,Jose Carlos Reis,[Sem rotulo],,,0.39965546,19,5,6,7,1,0,0,'23,39,43'
+15,0679776312554770,Leandro Pinheiro de Carvalho,[Sem rotulo],,,0.35074687,1,1,0,0,0,0,0,'23,39,43'
+16,0683532681929143,Amanda Eloina Scherer,[Sem rotulo],,,0.15,36,15,1,15,0,2,3,'23,39,43'
+17,0683727875478471,Daniela Francescutti Martins Hott,[Sem rotulo],,,1.0,13,3,1,3,4,2,0,'23,39,43'
+18,0703614684367481,Lizete Dias de Oliveira,[Sem rotulo],,,0.15,20,9,3,5,3,0,0,'23,39,43'
+19,0791528659991661,Maria Elisabete Catarino,[Sem rotulo],,,0.7063947,22,6,0,1,13,1,1,'23,39,43'
+20,0798897718136484,Duala Pessoa do Rosario,[Sem rotulo],,,0.7724774,2,1,0,0,1,0,0,'23,39,43'
+21,0817411098347687,Louise Gabler de Sousa,[Sem rotulo],,,0.15,3,0,3,0,0,0,0,'23,39,43'
+22,0819526679692082,Nelly de Camargo,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+23,0831250390697201,Valdenice Furquim de Souza,[Sem rotulo],,,0.81549823,4,0,0,0,4,0,0,'23,39,43'
+24,0882043234210681,Brenda Couto de Brito Rocco,[Sem rotulo],,,1.350841,4,1,1,1,1,0,0,'23,39,43'
+25,0883078475057237,Ramiro Quaresma da Silva,[Sem rotulo],,,0.15,3,0,1,2,0,0,0,'23,39,43'
+26,0886233776592505,Luiz Cleber Gak,[Sem rotulo],,,0.81549823,3,0,0,3,0,0,0,'23,39,43'
+27,0906748613922443,Marcia Rodrigues Pessoa,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+28,0919004072594619,Antonio Maria Claret de Gouveia,[Sem rotulo],,,0.15,24,9,1,0,12,0,2,'23,39,43'
+29,0920934902479266,Joana Coeli Ribeiro Garcia,[Sem rotulo],,,1.2149616,96,36,5,22,20,4,9,'23,39,43'
+30,0924734376057863,Gilberto Gomes Candido,[Sem rotulo],,,1.4748232,16,3,0,7,0,3,3,'23,39,43'
+31,0926273664571707,Ismenia de Lima Martins,[Sem rotulo],,,0.5083011,18,3,6,8,1,0,0,'23,39,43'
+32,0929892328542357,Luiz Antonio Santana da Silva,[Sem rotulo],,,0.7787842,21,7,0,0,10,2,2,'23,39,43'
+33,0945605685179870,Josiane Ayres Sfreddo,[Sem rotulo],,,0.50991094,4,4,0,0,0,0,0,'23,39,43'
+34,1009269767603024,William Keffer,[Sem rotulo],,,0.31295177,2,0,1,1,0,0,0,'23,39,43'
+35,1049186978910803,Oswaldo Francisco de Almeida Junior,[Sem rotulo],,,2.274083,67,23,1,21,13,8,1,'23,39,43'
+36,1066017160304582,Michele Brasileiro Geronimo,[Sem rotulo],,,0.5074056,9,0,0,0,4,2,3,'23,39,43'
+37,1072374287964657,Paula Regina Ventura Amorim Goncalez,[Sem rotulo],,,1.3677276,26,8,0,3,14,0,1,'23,39,43'
+38,1074144634787608,Joao Carlos Bernardo de Lima,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+39,1074372911061770,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,0.15,391,147,1,9,155,37,42,'23,39,43'
+40,1081444223864667,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,0.85993814,34,12,5,17,0,0,0,'23,39,43'
+41,1088989225792370,Maria Falcao Soares da Cunha,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+42,1107960729101541,Rafael Chaves Ferreira,[Sem rotulo],,,2.1029003,26,7,1,2,6,8,2,'23,39,43'
+43,1108459711125317,Gilberto Fladimar Rodrigues Viana,[Sem rotulo],,,2.0839193,21,7,0,5,8,0,1,'23,39,43'
+44,1135641846771956,Karin Christine Schwarzbold,[Sem rotulo],,,1.0292668,17,3,0,0,9,3,2,'23,39,43'
+45,1139786651111231,Telma Campanha de Carvalho Madio,[Sem rotulo],,,3.1907883,65,15,1,16,33,0,0,'23,39,43'
+46,1146222025315978,Juliana Amorim de Souza,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+47,1155169670269042,Carla Mara da Silva Silva,[Sem rotulo],,,0.15,3,2,0,0,0,0,1,'23,39,43'
+48,1162527997201891,Luis Carlos Lopes,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+49,1165530448149236,Mabel Meira Mota,[Sem rotulo],,,1.0800374,18,2,0,3,6,0,7,'23,39,43'
+50,1194002753412760,Glaucia Vieira Ramos Konrad,[Sem rotulo],,,1.6062348,81,15,0,13,21,13,19,'23,39,43'
+51,1219142873543536,Ana Paula Alves Soares,[Sem rotulo],,,1.0174179,13,5,1,0,7,0,0,'23,39,43'
+52,1221368288406814,Patricia de Jesus Ferreira Costa,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+53,1225424215823034,Carlos Alberto Figueiredo Pinto,[Sem rotulo],,,0.15,23,4,4,6,9,0,0,'23,39,43'
+54,1253291573608039,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,0.15,65,13,2,20,23,0,7,'23,39,43'
+55,1290370512728241,Sonia Regina Miranda,[Sem rotulo],,,0.9619857,38,15,4,13,6,0,0,'23,39,43'
+56,1315762713479332,Cristina Hilsdorf Barbanti,[Sem rotulo],,,0.42589658,0,0,0,0,0,0,0,'23,39,43'
+57,1318463074538528,Andresa Cristina Oliver Barbosa,[Sem rotulo],,,0.15,5,3,0,0,2,0,0,'23,39,43'
+58,1328646210425754,Paulo Sergio de Souza e Silva,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+59,1356900193684441,Rose Mary Juliano Longo,[Sem rotulo],,,0.15,2,0,0,2,0,0,0,'23,39,43'
+60,1399666760590526,Maria de Lourdes Ferreira,[Sem rotulo],,,0.2870305,1,0,0,0,1,0,0,'23,39,43'
+61,1428493134274239,Iara Peres de Menezes,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+62,1435722441644016,Regina de Barros Cianconi,[Sem rotulo],,,0.58661073,21,8,2,3,6,0,2,'23,39,43'
+63,1451205578056450,Monica de Menezes Santos,[Sem rotulo],,,0.91996276,16,0,1,1,6,1,7,'23,39,43'
+64,1458850189170755,Evelin Melo Mintegui,[Sem rotulo],,,0.5543623,9,1,0,3,3,2,0,'23,39,43'
+65,1467463408619263,Celia Maria Leite Costa,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+66,1506760929756018,Andre Oliva Teixeira Mendes,[Sem rotulo],,,0.15,4,1,1,0,2,0,0,'23,39,43'
+67,1544447383358308,Tereza Cristina Maury,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+68,1545179871529448,Joao Paulo Borges da Silveira,[Sem rotulo],,,0.15,1,0,0,0,0,0,1,'23,39,43'
+69,1561498633983716,Silvia Conceicao Reis Pereira Mello,[Sem rotulo],,,0.15,67,24,4,16,1,10,12,'23,39,43'
+70,1599588191642590,Tiago Braga da Silva,[Sem rotulo],,,0.46321362,5,1,0,2,2,0,0,'23,39,43'
+71,1630147171680159,Fernando Alves da Gama,[Sem rotulo],,,0.25130844,1,1,0,0,0,0,0,'23,39,43'
+72,1638018999454609,Beatriz Kushnir,[Sem rotulo],,,0.68939865,28,7,5,15,1,0,0,'23,39,43'
+73,1644225204208570,Paola Rodrigues Bittencourt,[Sem rotulo],,,1.2422729,3,1,0,1,1,0,0,'23,39,43'
+74,1648801931749201,Janice Goncalves,[Sem rotulo],,,0.75740975,30,8,4,5,10,0,3,'23,39,43'
+75,1660436860172725,Juliana Lopes Dias,[Sem rotulo],,,0.81549823,5,0,1,2,2,0,0,'23,39,43'
+76,1661138370842189,Dirlene Santos Barros,[Sem rotulo],,,1.1410538,25,6,1,3,13,2,0,'23,39,43'
+77,1662489956608125,Modesto Flavio Chagas Fonseca,[Sem rotulo],,,0.15,9,2,1,0,6,0,0,'23,39,43'
+78,1666631185911231,Larissa Frossard Rangel Cruz,[Sem rotulo],,,0.15,8,0,0,2,3,0,3,'23,39,43'
+79,1709321137559126,Zahide Lupinacci Muzart,[Sem rotulo],,,0.15,27,8,7,12,0,0,0,'23,39,43'
+80,1722582102636346,Rosali Fernandez de Souza,[Sem rotulo],,,0.48494393,40,7,0,4,22,7,0,'23,39,43'
+81,1725743392619106,Maria de Fatima Guimaraes,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+82,1740514868434221,Renata Lourenco Mendes Kessler,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+83,1747786817645740,Lenora de Beaurepaire da Silva Schwaitzer,[Sem rotulo],,,0.31959477,5,1,0,1,3,0,0,'23,39,43'
+84,1788582114469723,Leticia Borges Nedel,[Sem rotulo],,,1.5560496,12,2,0,6,4,0,0,'23,39,43'
+85,1816292355478126,Wendia Oliveira de Andrade,[Sem rotulo],,,0.491732,11,2,2,0,7,0,0,'23,39,43'
+86,1824675277001228,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1A,[Sem rotulo],,,0.30114865,101,57,10,30,2,1,1,'23,39,43'
+87,1827892679248571,Maria Eugenia Albino Andrade,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+88,1852521756037963,Alexandre Rita da Conceicao,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+89,1864473087690223,Marcello Peixoto Bax,[Sem rotulo],,,1.0,54,19,0,1,34,0,0,'23,39,43'
+90,1866467551152261,Janilton Fernandes Nunes,[Sem rotulo],,,0.15,1,0,0,0,1,0,0,'23,39,43'
+91,1890962357449913,Janete de Souza Romeiro,[Sem rotulo],,,0.6838267,2,2,0,0,0,0,0,'23,39,43'
+92,1930547479317264,Tatiane Braz de Oliveira,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+93,1936292018521131,Ricardo Augusto Benzaquen de Araujo,[Sem rotulo],,,0.15,8,4,0,4,0,0,0,'23,39,43'
+94,1949818819628608,Camila Anibale Perlin,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+95,1971294812346333,Mauricio Soares Dottori,[Sem rotulo],,,0.15,6,1,5,0,0,0,0,'23,39,43'
+96,2059074252489081,Maria Cristina Vieira de Freitas,[Sem rotulo],,,0.15,19,6,0,4,9,0,0,'23,39,43'
+97,2061933259164337,Gilda Massari Coelho,[Sem rotulo],,,0.15,1,0,0,1,0,0,0,'23,39,43'
+98,2087024974530731,Olga Maria Correa Garcia,[Sem rotulo],,,0.27306497,3,1,0,0,0,1,1,'23,39,43'
+99,2112029818325080,Renata Silva Borges,[Sem rotulo],,,0.33193782,7,0,0,3,3,0,1,'23,39,43'
+100,2126535501954084,Denise Portugal Lasmar,[Sem rotulo],,,0.15,1,0,1,0,0,0,0,'23,39,43'
+101,2130914111203011,Cacilda Maesima,[Sem rotulo],,,0.15,2,0,0,2,0,0,0,'23,39,43'
+102,2144348173140794,Maria do Carmo Martins,[Sem rotulo],,,0.52654415,30,7,1,11,7,0,4,'23,39,43'
+103,2148358566539858,Mateus de Moura Rodrigues,[Sem rotulo],,,0.38994062,10,3,0,2,3,0,2,'23,39,43'
+104,2159603203706015,Ingrid Beck,[Sem rotulo],,,0.15,21,0,0,0,21,0,0,'23,39,43'
+105,2186094231736251,Jose Francisco Guelfi Campos,[Sem rotulo],,,0.35546586,30,7,3,6,8,0,6,'23,39,43'
+106,2186985445070159,Dione Calil Gomes,[Sem rotulo],,,0.41411316,1,0,0,0,1,0,0,'23,39,43'
+107,2195602145841930,Ursula Blattmann,[Sem rotulo],,,0.8512635,40,23,3,7,5,1,1,'23,39,43'
+108,2202900114073504,Valdete Barros Barbosa,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+109,2230361905930940,Maria da Conceicao Oliveira Carvalho Nogueira,[Sem rotulo],,,0.15,8,0,0,0,7,0,1,'23,39,43'
+110,2254607837558457,Wilmara Rodrigues Calderon,[Sem rotulo],,,0.42235348,2,0,0,1,1,0,0,'23,39,43'
+111,2344887072767490,Gabriela de Lima Gomes,[Sem rotulo],,,0.15,12,1,1,2,4,0,4,'23,39,43'
+112,2387153978839551,Marcus Vinicius Correia Biaggi,[Sem rotulo],,,0.15,3,2,0,0,1,0,0,'23,39,43'
+113,2413567691663920,Angelica Alves da Cunha Marques,[Sem rotulo],,,0.8837729,39,17,3,9,10,0,0,'23,39,43'
+114,2439588429309154,Andre Henrique Guerra Cotta,[Sem rotulo],,,0.15,13,1,0,4,7,0,1,'23,39,43'
+115,2452174220717017,Francisco Jose Tavares do Nascimento,[Sem rotulo],,,0.33193782,2,1,0,1,0,0,0,'23,39,43'
+116,2473904317258511,Nayara Cavalini de Souza,[Sem rotulo],,,0.15,2,0,0,2,0,0,0,'23,39,43'
+117,2503095007748891,Katia de Padua Thomaz,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+118,2516948790769762,Kissila da Silva Rangel,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+119,2537335825587768,Maria Tereza Gomes de Almeida Lima,[Sem rotulo],,,0.15,15,3,1,3,4,2,2,'23,39,43'
+120,2542502576348388,Mario Augusto Muniz Guedes,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+121,2553964864422495,Luiz Carlos da Silva,[Sem rotulo],,,0.7061763,16,2,0,3,11,0,0,'23,39,43'
+122,2609133133895577,Shirlene Linny da Silva,[Sem rotulo],,,0.15,1,0,1,0,0,0,0,'23,39,43'
+123,2611007188909877,Leonardo Vasconcelos Renault,[Sem rotulo],,,1.0842978,10,5,0,0,3,1,1,'23,39,43'
+124,2656528421352494,Silvia Regina Dain Gandelman,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+125,2665934976300527,Delfim Afonso Junior,[Sem rotulo],,,0.15,1,1,0,0,0,0,0,'23,39,43'
+126,2683882609392455,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,2.9270852,75,34,1,15,12,6,7,'23,39,43'
+127,2750312958742751,Angelica Gasparotto de Oliveira,[Sem rotulo],,,0.15,1,1,0,0,0,0,0,'23,39,43'
+128,2772468359901524,Rosilaine Zoch Bello,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+129,2857024048442237,Cleusa Maria Gomes Graebin,[Sem rotulo],,,1.6548879,61,22,7,16,8,3,5,'23,39,43'
+130,2869190613553969,Cristina Strohschoen,[Sem rotulo],,,0.7998952,31,2,0,4,16,5,4,'23,39,43'
+131,2898214934998857,Claudia Feierabend Baeta Leal,[Sem rotulo],,,0.15,6,1,2,3,0,0,0,'23,39,43'
+132,2929361296293799,Heloisa Tardin Christovao,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+133,2947272663943499,Anna Carla Silva de Queiroz,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+134,3067082842626699,Alexandre Martins Soares,[Sem rotulo],,,0.15,5,5,0,0,0,0,0,'23,39,43'
+135,3087665610359216,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1A,[Sem rotulo],,,0.60911787,29,6,2,11,10,0,0,'23,39,43'
+136,3136752116477560,Joel Martins Luz,[Sem rotulo],,,0.15,12,0,0,0,7,1,4,'23,39,43'
+137,3161698949541169,Elisabeth Monteiro da Silva,[Sem rotulo],,,0.15,5,0,0,1,1,1,2,'23,39,43'
+138,3170566653824541,Georgete Medleg Rodrigues,[Sem rotulo],,,4.8123937,92,34,4,22,26,3,3,'23,39,43'
+139,3174686477411881,Izilda Angela Guimaraes,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+140,3182057466900829,Priscila Lopes Menezes,[Sem rotulo],,,0.15,8,4,0,0,4,0,0,'23,39,43'
+141,3186420006807999,Luciano Antonio Prates Junqueira,[Sem rotulo],,,1.0,50,26,5,11,7,1,0,'23,39,43'
+142,3206941969197185,Mariana Simoes Lourenco,[Sem rotulo],,,0.15,4,2,0,1,1,0,0,'23,39,43'
+143,3208337271858261,Paulo Roberto Elian dos Santos,[Sem rotulo],,,1.699597,26,9,5,9,2,0,1,'23,39,43'
+144,3210328756136146,Raquel Fernandes Tavares,[Sem rotulo],,,0.81549823,3,1,0,0,1,0,1,'23,39,43'
+145,3226755369490562,Simone Torres de Souza,[Sem rotulo],,,0.93568295,8,2,1,1,4,0,0,'23,39,43'
+146,3258269743344246,Ana Cherker Gorender,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+147,3284779071320508,Flavia Carneiro Leao,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+148,3303925004572979,Fernanda Povoa Correia,[Sem rotulo],,,0.15,2,0,0,0,1,0,1,'23,39,43'
+149,3310420860892044,Marta Eloisa Melgaco Neves,[Sem rotulo],,,0.15,1,1,0,0,0,0,0,'23,39,43'
+150,3316313139317192,Rodrigo Fortes de Avila,[Sem rotulo],,,0.95491153,14,3,1,1,7,0,2,'23,39,43'
+151,3323231841713999 (1),Ana Marcia Lutterbach Rodrigues,[Sem rotulo],,,1.0,2,1,0,1,0,0,0,'23,39,43'
+152,3323231841713999,Ana Marcia Lutterbach Rodrigues,[Sem rotulo],,,1.0,2,1,0,1,0,0,0,'23,39,43'
+153,3325937853024136,Suellen Barbosa Galdino,[Sem rotulo],,,0.15,2,0,0,1,0,0,1,'23,39,43'
+154,3330664202102987,Renato Crivelli Duarte,[Sem rotulo],,,1.0081403,14,3,0,0,8,0,3,'23,39,43'
+155,3378266559534734,Danilo Ribas Barbiero,[Sem rotulo],,,0.26689935,21,1,1,4,11,0,4,'23,39,43'
+156,3407515397492906,Ligia Gomes Elliot,[Sem rotulo],,,0.30743104,78,20,35,9,12,0,2,'23,39,43'
+157,3419230046136189,Angela Cristina Puzzi Fernandes,[Sem rotulo],,,0.15,38,5,0,0,0,0,33,'23,39,43'
+158,3473900139045053,Mara Cristina de Matos Rodrigues,[Sem rotulo],,,0.5447872,16,7,1,5,2,0,1,'23,39,43'
+159,3478702303031054,Giana Lucca Kroth,[Sem rotulo],,,0.15,7,1,0,0,5,1,0,'23,39,43'
+160,3484465896415762,Dirceu Castilho Pacheco,[Sem rotulo],,,0.76933813,9,2,0,2,2,1,2,'23,39,43'
+161,3502426977254866,Dhion Carlos Hedlund,[Sem rotulo],,,0.93260187,14,3,0,1,5,3,2,'23,39,43'
+162,3503478135148721,Luciane Baratto Adolfo,[Sem rotulo],,,0.37183273,1,0,0,0,1,0,0,'23,39,43'
+163,3514849083614884,Glaucia Aparecida Vaz,[Sem rotulo],,,0.33685955,2,2,0,0,0,0,0,'23,39,43'
+164,3542831487060438,Anna Carla Almeida Mariz,[Sem rotulo],,,1.720344,19,8,3,6,2,0,0,'23,39,43'
+165,3577873653663308,Marco Antonio das Gracas Antunes,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+166,3585152880837706,Antonio Laurindo dos Santos Neto,[Sem rotulo],,,0.3218573,7,5,0,2,0,0,0,'23,39,43'
+167,3591203225395311,Jose Alimateia de Aquino Ramos,[Sem rotulo],,,0.5237191,4,2,0,0,2,0,0,'23,39,43'
+168,3605561293267223,Juliana Pavesi Miguel Traldi,[Sem rotulo],,,0.15,1,0,0,0,0,1,0,'23,39,43'
+169,3668988950467915,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,0.4720091,52,6,10,12,2,4,18,'23,39,43'
+170,3691758589191127,Inaldo Barbosa Marinho Junior,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+171,3747903021737250,Bianca Therezinha Carvalho Panisset,[Sem rotulo],,,0.89380604,4,2,1,1,0,0,0,'23,39,43'
+172,3803667627455295,Murilo Billig Schafer,[Sem rotulo],,,0.7623625,8,7,0,0,1,0,0,'23,39,43'
+173,3804765278248712,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1D,[Sem rotulo],,,0.80605394,24,6,2,8,8,0,0,'23,39,43'
+174,3806798888576249,Eliezer Pires da Silva,[Sem rotulo],,,2.2292902,40,10,0,10,19,0,1,'23,39,43'
+175,3824387462364585,Celia Medeiros Dantas,[Sem rotulo],,,0.15,5,1,0,1,3,0,0,'23,39,43'
+176,3854885552647613,Niraldo Jose do Nascimento,[Sem rotulo],,,0.53692967,6,1,0,0,5,0,0,'23,39,43'
+177,3883376217170031,Diana Dianovsky,[Sem rotulo],,,0.15,6,1,0,3,0,0,2,'23,39,43'
+178,3929583037339642,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,1.4026113,89,24,12,30,8,0,15,'23,39,43'
+179,3940567824569217,Italo Moriconi Junior,[Sem rotulo],,,0.15,11,2,3,6,0,0,0,'23,39,43'
+180,3944519101855359,Marina Rodrigues Brochado,[Sem rotulo],,,0.15,28,1,0,0,25,1,1,'23,39,43'
+181,4003246035390289,Mario Arturo Alberto Guidi,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+182,4004539331721031,Talita dos Santos Molina,[Sem rotulo],,,0.15,11,1,0,2,7,0,1,'23,39,43'
+183,4009452150201421,Carlos Alberto Avila Araujo,[Sem rotulo],,,1.6884941,109,65,1,16,15,6,6,'23,39,43'
+184,4017037880197153,Valter Sinder,[Sem rotulo],,,0.15,9,4,1,2,0,0,2,'23,39,43'
+185,4037221542488015,Aurora Leonor Freixo,[Sem rotulo],,,0.50863963,7,0,3,2,2,0,0,'23,39,43'
+186,4037983278239520 (1),Junia Gomes da Costa Guimaraes e Silva,[Sem rotulo],,,1.0,3,0,0,2,0,0,1,'23,39,43'
+187,4037983278239520,Junia Gomes da Costa Guimaraes e Silva,[Sem rotulo],,,1.0,3,0,0,2,0,0,1,'23,39,43'
+188,4045043817625203,Ellen Cristine Monteiro Vogas,[Sem rotulo],,,0.15,3,1,1,1,0,0,0,'23,39,43'
+189,4061086168315063,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,0.15,17,7,4,4,2,0,0,'23,39,43'
+190,4081251958507919,Thays Lacerda de Azevedo Ferrando de Almeida,[Sem rotulo],,,0.15,4,0,1,0,2,1,0,'23,39,43'
+191,4103873411732532,Vera Lucia Coscia,[Sem rotulo],,,1.0,8,3,0,1,2,0,2,'23,39,43'
+192,4161078945259300,Jose Mauro Matheus Loureiro,[Sem rotulo],,,1.3755962,27,9,0,3,15,0,0,'23,39,43'
+193,4168957754548160,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1B,[Sem rotulo],,,0.15,9,2,1,6,0,0,0,'23,39,43'
+194,4170791736225763,Debora Flores,[Sem rotulo],,,0.6586761,5,0,0,0,0,5,0,'23,39,43'
+195,4209198911933856,Camila Poerschke Rodrigues,[Sem rotulo],,,0.28298563,1,0,0,1,0,0,0,'23,39,43'
+196,4233172979202700,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1A,[Sem rotulo],,,1.0,99,33,10,42,12,0,2,'23,39,43'
+197,4242574500620980,Marcelo Oliveira Verzoni,[Sem rotulo],,,0.15,10,4,0,0,6,0,0,'23,39,43'
+198,4250012911307629,Diego Maganhotto Coraiola,[Sem rotulo],,,1.1482474,59,13,0,4,37,0,5,'23,39,43'
+199,4284493226597009,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,0.31447122,35,9,7,14,1,0,4,'23,39,43'
+200,4299342469360586,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,2.195036,65,16,0,16,33,0,0,'23,39,43'
+201,4300701634624888,Cynthia Maria Kiyonaga Suenaga,[Sem rotulo],,,0.9588077,9,1,0,2,3,2,1,'23,39,43'
+202,4311327191424332,Andre Zanki Cordenonsi,[Sem rotulo],,,1.6233255,27,9,1,0,10,1,6,'23,39,43'
+203,4343769628000860,Marcelo Cavaglieri,[Sem rotulo],,,1.2591636,12,10,0,1,0,1,0,'23,39,43'
+204,4372943322993518,Ivan Luiz Marques Ricarte,[Sem rotulo],,,0.15,54,19,1,2,18,8,6,'23,39,43'
+205,4387153388172730,Leonina Amanda Feitoza,[Sem rotulo],,,0.30195034,5,2,0,0,3,0,0,'23,39,43'
+206,4421435908492751,Antonio Lisboa Carvalho de Miranda,[Sem rotulo],,,0.15,40,7,15,18,0,0,0,'23,39,43'
+207,4456626452323578,Maria Ivonete Gomes do Nascimento,[Sem rotulo],,,0.93611866,9,3,0,2,1,2,1,'23,39,43'
+208,4462946146826132,Cecilia Maria Boucas Coimbra,[Sem rotulo],,,0.15,20,7,0,12,1,0,0,'23,39,43'
+209,4519001804378051,Dayse Martins Hora,[Sem rotulo],,,0.15,48,7,2,4,21,5,9,'23,39,43'
+210,4531433505351729,Vania Mara Alves Lima,[Sem rotulo],,,0.868626,40,9,0,12,15,1,3,'23,39,43'
+211,4543503393775701,Johanna Wilhelmina Smit,[Sem rotulo],,,1.7962323,32,5,1,12,10,1,3,'23,39,43'
+212,4574166020428939,Andrea do Prado Souza,[Sem rotulo],,,0.24331161,3,0,1,0,0,1,1,'23,39,43'
+213,4584965448810473,Duarte de Magalhaes Barbalho,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+214,4611487449721174,Geraldo Moreira Prado,[Sem rotulo],,,0.15,5,4,0,0,0,0,1,'23,39,43'
+215,4640320476003795,Benhur de Oliveira Stein,[Sem rotulo],,,1.0,4,2,0,0,2,0,0,'23,39,43'
+216,4642244490817627,Ana Celia Navarro de Andrade,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+217,4694576349618479,Lucia Maria Velloso de Oliveira,[Sem rotulo],,,1.9564966,29,4,9,13,3,0,0,'23,39,43'
+218,4748062631090684,Priscila Moraes Varella Fraiz,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+219,4752632781155101,Ana Cristina de Albuquerque,[Sem rotulo],,,1.8868657,69,14,1,6,39,4,5,'23,39,43'
+220,4767432940301118,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,1.4409739,102,53,7,11,20,5,6,'23,39,43'
+221,4779370641149514,Jean Felipe Bastardis Coelho,[Sem rotulo],,,0.15,5,1,0,0,0,0,4,'23,39,43'
+222,4793633520254007,Zuleica Maria Patricio Karnopp,[Sem rotulo],,,0.15,21,12,1,2,3,0,3,'23,39,43'
+223,4806818552131851,Gabriela Bazan Pedrao,[Sem rotulo],,,0.5979895,8,3,0,0,4,1,0,'23,39,43'
+224,4835234239471713,Fernando Hadad Zaidan,[Sem rotulo],,,1.0,48,8,1,5,34,0,0,'23,39,43'
+225,4839851123365819,Jaime Luiz Cunha de Souza,[Sem rotulo],,,0.15,51,10,4,16,21,0,0,'23,39,43'
+226,4851404537186833,Lucia Maria Barbosa do Nascimento,[Sem rotulo],,,0.15,17,5,0,4,2,0,6,'23,39,43'
+227,4876348790785398,Sergio Conde de Albite Silva,[Sem rotulo],,,0.5718408,7,2,1,4,0,0,0,'23,39,43'
+228,4892603826583866,Mariza Bottino de Albuquerque,[Sem rotulo],,,0.15,3,0,1,2,0,0,0,'23,39,43'
+229,4897598511024616,Laurimar Gomes da Silva,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+230,4917388750813125,Dulce Elaine Saul da Luz,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+231,4971024492460323,Carmen Sylvia Vidigal Moraes,[Sem rotulo],,,1.0,41,13,5,16,4,0,3,'23,39,43'
+232,4984241119348770,Sandro Aparecido Goncalves,[Sem rotulo],,,1.3690037,37,21,2,2,11,0,1,'23,39,43'
+233,5032443622673902,Daniele Xavier Calil,[Sem rotulo],,,0.27526546,5,1,0,0,1,0,3,'23,39,43'
+234,5046080930256576,Marco Antonio da Luz,[Sem rotulo],,,0.2699703,0,0,0,0,0,0,0,'23,39,43'
+235,5050379681746881,Speranza Franca da Mata,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+236,5062071621871923,Tassiara Jaqueline Fanck Kich,[Sem rotulo],,,0.7984636,11,2,0,0,5,0,4,'23,39,43'
+237,5066687544180019,Tania Cristina Registro,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+238,5073860126319285,Maria Jose Vicentini Jorente,[Sem rotulo],,,1.3750346,137,30,4,16,53,14,20,'23,39,43'
+239,5080160629448063,Cristiane Basques da Cunha Silva,[Sem rotulo],,,0.15,1,0,0,0,1,0,0,'23,39,43'
+240,5082397017911269,Diana Vilas Boas Souto Aleixo,[Sem rotulo],,,0.9735001,10,4,1,0,4,0,1,'23,39,43'
+241,5083226972645003,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1C,[Sem rotulo],,,0.15,18,5,0,13,0,0,0,'23,39,43'
+242,5090396987995001,Karina e Silva Dias,[Sem rotulo],,,1.0,32,7,5,8,10,0,2,'23,39,43'
+243,5100371665212423,Eneida Nogueira,[Sem rotulo],,,0.15,5,2,0,0,0,0,3,'23,39,43'
+244,5109092833575492,Iomar Barbosa Zaia,[Sem rotulo],,,1.0,8,1,0,3,4,0,0,'23,39,43'
+245,5109503945869909,Marcia Cristina de Carvalho Pazin Vitoriano,[Sem rotulo],,,1.3845658,62,10,2,18,16,7,9,'23,39,43'
+246,5113270185930692,Carlos Blaya Perez,[Sem rotulo],,,1.3680153,18,6,0,1,4,6,1,'23,39,43'
+247,5140588181933697,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1D,[Sem rotulo],,,0.9219222,39,9,10,11,9,0,0,'23,39,43'
+248,5209519271760819,Zenaide de Freitas Santos,[Sem rotulo],,,0.4257732,2,1,0,0,1,0,0,'23,39,43'
+249,5217828534180561,Lazara Nanci de Barros Amancio,[Sem rotulo],,,0.15,14,3,0,6,4,0,1,'23,39,43'
+250,5218069708058487,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,1.2158633,114,34,3,6,42,27,2,'23,39,43'
+251,5226458477581514,Noemi Andreza da Penha,[Sem rotulo],,,0.28627884,5,2,0,0,1,0,2,'23,39,43'
+252,5229722731294777,Jose Eduardo Rollo da Silva,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+253,5270596458405921,Thais Nunes Feijo,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+254,5305853353393421,Emilia Barroso Cruz,[Sem rotulo],,,1.0,3,2,1,0,0,0,0,'23,39,43'
+255,5353319785806627,Aires Jose Rover,[Sem rotulo],,,0.34068835,117,46,17,26,25,0,3,'23,39,43'
+256,5397420954481041,Regiane Aparecida Caire da Silva,[Sem rotulo],,,0.15,11,2,0,4,5,0,0,'23,39,43'
+257,5412492257148196,Maria Guiomar da Cunha Frota,[Sem rotulo],,,0.26654324,31,10,0,11,10,0,0,'23,39,43'
+258,5412979414051020,Maria do Carmo Alvarenga de Andrade Gomes,[Sem rotulo],,,0.15,10,1,1,5,3,0,0,'23,39,43'
+259,5420092700640490,Clara Marli Scherer Kurtz,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+260,5453622799322717,Flavia Helena Conrado Rossato,[Sem rotulo],,,0.38994062,4,1,0,1,1,0,1,'23,39,43'
+261,5458344734085444,Gustavo Henrique de Araujo Freire,[Sem rotulo],,,2.2670155,76,45,4,4,22,0,1,'23,39,43'
+262,5460972179410597,Maria Leandra Bizello,[Sem rotulo],,,2.3778875,45,8,0,9,26,0,2,'23,39,43'
+263,5511791135406893,Neide Aparecida Gomes,[Sem rotulo],,,0.15,2,1,0,1,0,0,0,'23,39,43'
+264,5570599464379078,Valeria Jose Silva Santos,[Sem rotulo],,,0.2758637,7,0,0,0,7,0,0,'23,39,43'
+265,5596351030092112,Rita Medianeira Ilha,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+266,5597378308649068,Ester de Albergaria Gomes Pacheco,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+267,5623964456964265,Taiguara Villela Aldabalde,[Sem rotulo],,,0.799851,18,10,0,2,6,0,0,'23,39,43'
+268,5655713520816387,Gleise Andrade Cruz,[Sem rotulo],,,0.15,1,1,0,0,0,0,0,'23,39,43'
+269,5668344562019395,Natalia Bolfarini Tognoli,[Sem rotulo],,,2.6200533,48,21,1,20,5,1,0,'23,39,43'
+270,5696705408159072,Eva Maria Siqueira Alves,[Sem rotulo],,,0.42960805,60,9,17,21,10,0,3,'23,39,43'
+271,5703127461165767,Vanessa Maria Brasil,[Sem rotulo],,,0.15,8,0,0,5,1,0,2,'23,39,43'
+272,5704036532772386,Luciana Knijnik,[Sem rotulo],,,1.0,9,5,0,2,2,0,0,'23,39,43'
+273,5723687710647566,Ana Andrea Vieira Castro de Amorim,[Sem rotulo],,,0.6031433,3,0,0,0,3,0,0,'23,39,43'
+274,5810994575541911,Eliane Braga de Oliveira,[Sem rotulo],,,2.899417,33,11,1,5,8,0,8,'23,39,43'
+275,5818571134991190,Rui Otavio Bernardes de Andrade,[Sem rotulo],,,0.9201001,36,17,8,2,9,0,0,'23,39,43'
+276,5819951651545585,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,2.7713728,51,18,0,23,8,2,0,'23,39,43'
+277,5842800916317000,Gillian Leandro de Queiroga Lima,[Sem rotulo],,,0.85058945,12,3,0,0,6,1,2,'23,39,43'
+278,5860437073918922,Jordan Paulesky Juliani,[Sem rotulo],,,1.3690038,37,19,0,1,15,2,0,'23,39,43'
+279,5889970113074660,Joao Marcus Figueiredo Assis,[Sem rotulo],,,2.3707414,31,5,1,7,10,1,7,'23,39,43'
+280,5890524829425382,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,0.15,37,9,5,8,15,0,0,'23,39,43'
+281,5924611732665762,Sandra Lucia Rebel Gomes,[Sem rotulo],,,0.89594513,14,4,1,4,5,0,0,'23,39,43'
+282,5941686828835081,Felipe Martins Muller,[Sem rotulo],,,1.2971494,42,15,1,0,25,0,1,'23,39,43'
+283,6005525213451502,Jose Luiz Brazil Gomes,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+284,6025485838331204,Edivaldo Machado Boaventura,[Sem rotulo],,,0.15,78,47,13,9,9,0,0,'23,39,43'
+285,6112940247306533,Cecilia Almeida Salles,[Sem rotulo],,,0.15,44,10,7,20,7,0,0,'23,39,43'
+286,6121880306161681,Luciani Aparecida de Oliveira,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+287,6145786557508049,Julia Bellesse da Silva Lins,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+288,6155301215674644,Mariana Lousada,[Sem rotulo],,,1.099477,27,10,1,4,6,6,0,'23,39,43'
+289,6184071456334110,Filomena Luciene Cordeiro,[Sem rotulo],,,0.3767539,227,14,9,27,53,77,47,'23,39,43'
+290,6232467701444769,Claudio do Carmo Goncalves,[Sem rotulo],,,0.15,37,20,3,6,7,1,0,'23,39,43'
+291,6258906373771462,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1B - CA ED - Educacao,[Sem rotulo],,,1.0820683,100,26,6,22,20,0,26,'23,39,43'
+292,6260325547559623,Wystercley Marins da Silva,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+293,6285822064079751,Eduardo Jose Wense Dias,[Sem rotulo],,,0.15,1,1,0,0,0,0,0,'23,39,43'
+294,6287189499811096,Caroline Lopes Durce,[Sem rotulo],,,0.3100288,1,1,0,0,0,0,0,'23,39,43'
+295,6292189136309964,Bolsista de Doutorado do CNPq,[Sem rotulo],,,0.9461261,5,3,0,0,2,0,0,'23,39,43'
+296,6330261299374061 (1),Antonio Victor Rodrigues Botao,[Sem rotulo],,,1.1648083,5,1,0,2,2,0,0,'23,39,43'
+297,6330261299374061,Antonio Victor Rodrigues Botao,[Sem rotulo],,,1.1648083,5,1,0,2,2,0,0,'23,39,43'
+298,6352285207676599,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1A,[Sem rotulo],,,0.15,48,14,3,17,11,0,3,'23,39,43'
+299,6376683794840711,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,1.7721144,86,4,5,8,37,19,13,'23,39,43'
+300,6380929054652063,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1B,[Sem rotulo],,,2.8455658,124,44,6,50,19,3,2,'23,39,43'
+301,6410972120730448,Derlei Alberto dos Santos,[Sem rotulo],,,0.51933444,8,1,0,3,2,2,0,'23,39,43'
+302,6423116545839346,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1A,[Sem rotulo],,,0.15,67,12,14,35,6,0,0,'23,39,43'
+303,6428276314080289,Zilda Marcia Gricoli Iokoi,[Sem rotulo],,,0.15,15,3,3,8,1,0,0,'23,39,43'
+304,6451986422635629,Maria Carolina Boverio Galzerani,[Sem rotulo],,,0.35033637,12,5,1,2,2,1,1,'23,39,43'
+305,6466659926036491,Fellipe Sa Brasileiro,[Sem rotulo],,,0.574103,20,11,1,2,6,0,0,'23,39,43'
+306,6530346906709462,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1B,[Sem rotulo],,,1.0757855,174,61,6,47,52,0,8,'23,39,43'
+307,6563330119993372,Marcia Heloisa Tavares de Figueredo Lima,[Sem rotulo],,,1.340408,52,11,2,4,19,1,15,'23,39,43'
+308,6585350696000432,Augusto Moreno Maia,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+309,6627515117629622,Maria Candida da Silveira Skrebsky,[Sem rotulo],,,0.15,2,1,0,0,1,0,0,'23,39,43'
+310,6653898998670682,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1C,[Sem rotulo],,,1.0752057,44,10,3,12,7,2,10,'23,39,43'
+311,6663149305110672,Patricia Machado Goulart Franca,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+312,6682021538022821,Alexandre Luis Moreli Rocha,[Sem rotulo],,,0.34117675,16,14,1,0,1,0,0,'23,39,43'
+313,6699621373321266,Sonia Maria Ferreira da Silva,[Sem rotulo],,,0.15,1,0,0,0,1,0,0,'23,39,43'
+314,6737856612276260,Alexandre Fernal,[Sem rotulo],,,0.6365024,7,1,0,0,5,1,0,'23,39,43'
+315,6750677184296866,Tania Valeria Ceo de Oliveira,[Sem rotulo],,,0.15,1,1,0,0,0,0,0,'23,39,43'
+316,6754290381620645,Monica Maria de Padua Souto da Cunha,[Sem rotulo],,,0.15,9,4,1,2,2,0,0,'23,39,43'
+317,6771944024509251,Karina Veras Praxedes dos Santos Gagliano,[Sem rotulo],,,0.4775304,0,0,0,0,0,0,0,'23,39,43'
+318,6787804341117359,Adriana Lucia Cox Hollos,[Sem rotulo],,,1.0960599,8,2,0,3,2,1,0,'23,39,43'
+319,6834425702822117,Aline Camargo Torres,[Sem rotulo],,,0.15,2,1,0,0,1,0,0,'23,39,43'
+320,6842625950166790,Maria Regina Persechini Armond Cortes,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+321,6875848364125773,Carolina de Oliveira,[Sem rotulo],,,0.5312169,2,2,0,0,0,0,0,'23,39,43'
+322,6876296567112554,Maria Cristina Guimaraes Oliveira,[Sem rotulo],,,0.5324183,17,5,0,0,12,0,0,'23,39,43'
+323,6886787812633421,Manoel Luiz Lima Salgado Guimaraes,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+324,6909041872447917,Priscila Ribeiro Gomes,[Sem rotulo],,,1.3690035,12,1,0,2,8,1,0,'23,39,43'
+325,6913575710636957,Lucas Figueiredo Baisch,[Sem rotulo],,,0.15,7,0,0,0,6,0,1,'23,39,43'
+326,6918547599708778,Joel Cardoso da Silva,[Sem rotulo],,,0.54160464,50,18,3,20,8,1,0,'23,39,43'
+327,6919374280380925,Ana Celia Rodrigues,[Sem rotulo],,,4.94442,72,11,2,16,37,5,1,'23,39,43'
+328,6920029597565263,Nadina Aparecida Moreno,[Sem rotulo],,,0.6365024,5,3,0,1,1,0,0,'23,39,43'
+329,6941387272802380,Luiz Roberto Pinto Nazario,[Sem rotulo],,,0.15,30,10,1,15,4,0,0,'23,39,43'
+330,6947598132405137,Fernanda Kieling Pedrazzi,[Sem rotulo],,,1.5103983,85,21,3,12,10,21,18,'23,39,43'
+331,6949521091026950,Vanessa Murta Rezende,[Sem rotulo],,,0.27897656,0,0,0,0,0,0,0,'23,39,43'
+332,6969748966360450,Rafael Simone Nharreluga,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+333,6999793215755694,Pedro Henrique Porto Coelho,[Sem rotulo],,,0.8279213,8,3,0,3,1,1,0,'23,39,43'
+334,7027781809552711,Alexander Rossatto Tittelmeyer,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+335,7037188590027119,Martius Vicente Rodriguez y Rodriguez,[Sem rotulo],,,1.0,66,47,6,6,7,0,0,'23,39,43'
+336,7052822499655835,Luiz Antonio Cruz Souza,[Sem rotulo],,,0.15,37,11,3,6,11,3,3,'23,39,43'
+337,7056438563307041,Silvia Coelho Hernandes,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+338,7146923539348637,Maria Aparecida Borges Vieira,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+339,7169420814464774,Carolina Martins Ferro,[Sem rotulo],,,0.15,1,0,0,0,1,0,0,'23,39,43'
+340,7192179175216123,Benjamin Luiz Franklin,[Sem rotulo],,,0.42235348,13,3,0,0,10,0,0,'23,39,43'
+341,7275692418800900,Dione da Rocha Bandeira,[Sem rotulo],,,0.15,64,16,1,17,11,3,16,'23,39,43'
+342,7352859585911664,Jean Frederick Brito Xavier,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+343,7357010290069674,Rosely Curi Rondinelli,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+344,7408791408049766,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,2.2056048,102,52,2,13,35,0,0,'23,39,43'
+345,7413464711814360,Marcos Galindo Lima,[Sem rotulo],,,0.8963286,64,8,4,20,32,0,0,'23,39,43'
+346,7416066730700319,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,0.44639406,96,21,20,36,12,1,6,'23,39,43'
+347,7549401292929384,Leticia Elaine Ferreira,[Sem rotulo],,,0.67971385,9,1,0,1,4,2,1,'23,39,43'
+348,7555772160147584,Rosa Ines de Novais Cordeiro,[Sem rotulo],,,0.9974938,31,7,2,9,12,1,0,'23,39,43'
+349,7600501778983814,Marcelo Milano Falcao Vieira,[Sem rotulo],,,0.15,12,7,0,2,2,0,1,'23,39,43'
+350,7651879454100300,Bruno Ferreira Leite,[Sem rotulo],,,0.92417264,12,1,0,2,5,1,3,'23,39,43'
+351,7657219735244073,Nadia Gaiofatto Goncalves,[Sem rotulo],,,0.4827491,34,9,8,7,10,0,0,'23,39,43'
+352,7683348330258439,Andre Malverdes,[Sem rotulo],,,0.6190132,27,3,11,4,9,0,0,'23,39,43'
+353,7697379577056048,Luciana Quillet Heymann,[Sem rotulo],,,2.528693,18,7,2,7,2,0,0,'23,39,43'
+354,7747657036741150,Rosale de Mattos Souza,[Sem rotulo],,,1.0514897,15,6,1,1,6,0,1,'23,39,43'
+355,7782863280113794,Silvana Karpinscki,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+356,7789092626656746,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1C,[Sem rotulo],,,0.15,39,17,9,12,1,0,0,'23,39,43'
+357,7821366391162142,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,0.3100288,23,8,3,4,3,0,5,'23,39,43'
+358,7844130655604706,Walda de Andrade Antunes,[Sem rotulo],,,0.15,5,0,5,0,0,0,0,'23,39,43'
+359,7847473036203912,Maria Tarcila Ferreira Guedes,[Sem rotulo],,,0.15,13,1,2,3,6,0,1,'23,39,43'
+360,7850164594444032,Reinaldo dos Santos,[Sem rotulo],,,1.0,73,4,6,16,36,10,1,'23,39,43'
+361,7859113509371063,Marlene Oliveira,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+362,7888755937461651,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1D,[Sem rotulo],,,0.15,35,7,0,6,18,3,1,'23,39,43'
+363,7903975936090098,Evandir Codato,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+364,7906074647450317,Priscila Freitas de Carvalho,[Sem rotulo],,,0.28627884,9,1,0,0,3,0,5,'23,39,43'
+365,7913605201256078,Rosane Montiel,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+366,7943799795372212,Vanessa Leite Miranda,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+367,7947423722511295,Raul Ceretta Nunes,[Sem rotulo],,,0.58544254,68,10,3,1,40,14,0,'23,39,43'
+368,8031804069721830,Maria da Conceicao Carnevale,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+369,8097143602780917,Wendell Lopes de Assis,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+370,8110248272001369,Luzia Sigoli Fernandes Costa,[Sem rotulo],,,1.0,28,10,2,2,12,0,2,'23,39,43'
+371,8127446400729165,Claudio Muniz Viana,[Sem rotulo],,,0.8313942,11,4,0,1,4,1,1,'23,39,43'
+372,8153758173673961,Gregorio Jean Varvakis Rados,[Sem rotulo],,,0.15,180,82,6,16,74,1,1,'23,39,43'
+373,8169971637425512,Rubia Martins,[Sem rotulo],,,0.23733287,21,4,0,0,4,7,6,'23,39,43'
+374,8251676116103188,Andrea Schwertner Charao,[Sem rotulo],,,1.0,98,15,1,2,40,40,0,'23,39,43'
+375,8257168947340176,Regis Alessandro Ferreira Costa,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+376,8281977186231711,Sergio Pecanha da Silva Coletto,[Sem rotulo],,,0.5136113,7,0,0,0,5,0,2,'23,39,43'
+377,8294828055636714,Ana Celeste Indolfo,[Sem rotulo],,,0.5164389,15,6,0,4,5,0,0,'23,39,43'
+378,8298494918887706,Ramon Maciel Ferreira,[Sem rotulo],,,1.0,13,1,1,2,4,0,5,'23,39,43'
+379,8304009821730324,Rosa Borges dos Santos,[Sem rotulo],,,1.4583954,43,13,4,14,12,0,0,'23,39,43'
+380,8344210421589146,Maira Cristina Grigoleto,[Sem rotulo],,,1.1457702,24,4,0,0,15,3,2,'23,39,43'
+381,8356225456381660,Miriam Paula Manini,[Sem rotulo],,,0.39095116,42,16,2,8,14,0,2,'23,39,43'
+382,8372345646588483,Ana Carla Sabino Fernandes,[Sem rotulo],,,0.15,12,1,0,5,2,0,4,'23,39,43'
+383,8380029107966735,Maria Raquel Lisboa Costa Marques,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+384,8389424019758408,Denise de Almeida Silva,[Sem rotulo],,,0.15,3,1,0,1,1,0,0,'23,39,43'
+385,8390599364080828,Cristian Jose Oliveira Santos Brayner,[Sem rotulo],,,0.15,11,4,4,0,3,0,0,'23,39,43'
+386,8393483420989804,Maria do Socorro dos Santos Oliveira,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+387,8408511964332556,Carlos Alberto Nunes Cosenza,[Sem rotulo],,,0.15,39,21,7,3,8,0,0,'23,39,43'
+388,8419206257215949,Eduardo Augusto Costa,[Sem rotulo],,,0.15,21,11,1,3,5,0,1,'23,39,43'
+389,8430720903326399,Isa Maria Freire,[Sem rotulo],,,2.047122,140,78,1,9,47,5,0,'23,39,43'
+390,8444010357590495,Yuri Queiroz Gomes,[Sem rotulo],,,0.29131553,2,0,2,0,0,0,0,'23,39,43'
+391,8446172660230692,Astrid Weissheimer,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+392,8449472217863692,Maria de Lourdes Lima,[Sem rotulo],,,0.15,16,6,1,2,1,0,6,'23,39,43'
+393,8503441390573282,Maria Philomena da Cunha Gebran,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+394,8544330890926810,Rose Marie Inojosa,[Sem rotulo],,,1.0,8,3,0,5,0,0,0,'23,39,43'
+395,8546252377315420,Brigida Maria Nogueira Cervantes,[Sem rotulo],,,2.0661592,60,25,2,9,20,2,2,'23,39,43'
+396,8596568228676820,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,1.0660516,52,17,2,8,19,4,2,'23,39,43'
+397,8613173741007646,Isabella Gelas Ciocca,[Sem rotulo],,,0.15,1,0,0,1,0,0,0,'23,39,43'
+398,8613771175177074,Solange Machado de Souza,[Sem rotulo],,,0.7498105,3,1,0,2,0,0,0,'23,39,43'
+399,8621006353013998,Claudia Suely Rodrigues de Carvalho,[Sem rotulo],,,0.15,18,4,3,4,6,0,1,'23,39,43'
+400,8683852109548456,Ana Maria de Almeida Camargo,[Sem rotulo],,,0.36137402,8,0,5,3,0,0,0,'23,39,43'
+401,8690946829274730,Angela Moreira Domingues da Silva,[Sem rotulo],,,0.30283523,32,5,6,8,2,0,11,'23,39,43'
+402,8717500482425357,Maira Salles de Souza,[Sem rotulo],,,0.15,6,0,0,0,2,3,1,'23,39,43'
+403,8724142064979799,Maitha Elena Tosta Graciano,[Sem rotulo],,,0.5074056,5,0,0,1,2,0,2,'23,39,43'
+404,8726752298162034,Beatriz Aita da Silva,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+405,8727661230822891,Marcela Goncalves Teixeira,[Sem rotulo],,,0.2699703,2,0,0,0,2,0,0,'23,39,43'
+406,8736527241495906,Marilda Cabreira Leao Luiz,[Sem rotulo],,,1.0,5,0,0,0,4,1,0,'23,39,43'
+407,8804558693582234,Eduardo Ismael Murguia Maranon,[Sem rotulo],,,1.5171679,33,12,2,9,10,0,0,'23,39,43'
+408,8805105665110644,Ana Lucia da Silva do Carmo,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+409,8822252054175030,Leandro Pena Catao,[Sem rotulo],,,1.0380331,42,11,7,24,0,0,0,'23,39,43'
+410,8842452172419755,Aline Nogueira Marques Nicolau,[Sem rotulo],,,0.15,2,0,2,0,0,0,0,'23,39,43'
+411,8863977290030642,Mari Cleise Sandalowski,[Sem rotulo],,,0.15,29,8,1,2,5,5,8,'23,39,43'
+412,8891630755683175,Monica Franchi Carniello,[Sem rotulo],,,1.3690035,290,86,2,15,177,9,1,'23,39,43'
+413,8923817358777809,Alexandre de Souza Costa,[Sem rotulo],,,1.0,8,2,0,2,4,0,0,'23,39,43'
+414,8934531652652896,Josemar Henrique de Melo,[Sem rotulo],,,0.15,26,7,0,8,11,0,0,'23,39,43'
+415,8935095050823535,Valeria Raquel Bertotti,[Sem rotulo],,,0.28248122,20,1,2,0,11,1,5,'23,39,43'
+416,8959753413028514,Jacy Machado Barletta,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+417,8966271789867648,Djalma Mandu de Brito,[Sem rotulo],,,1.3871359,3,2,1,0,0,0,0,'23,39,43'
+418,8967524326033518,Maria Celina Soares de Mello e Silva,[Sem rotulo],,,1.018974,35,6,11,15,2,0,1,'23,39,43'
+419,8977110096494061,Ezmir Dippe Elias,[Sem rotulo],,,0.66122,7,6,1,0,0,0,0,'23,39,43'
+420,9017181591485421,Sylvana Maria Brandao de Aguiar,[Sem rotulo],,,0.15,73,15,14,23,10,2,9,'23,39,43'
+421,9030674207913414,Livia Regina Rocha Retamoso,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+422,9041863583431544,Marcos Antonio de Moraes,[Sem rotulo],,,0.15,5,2,0,0,3,0,0,'23,39,43'
+423,9075630401871816,Luciene Salies,[Sem rotulo],,,0.15,8,0,0,8,0,0,0,'23,39,43'
+424,9114125597206149,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,0.4808359,24,8,2,11,0,0,3,'23,39,43'
+425,9187923473744435,Joao Vicente Teixeira Buzzatti,[Sem rotulo],,,0.15,1,0,0,1,0,0,0,'23,39,43'
+426,9205421345814071,Lidia Alvarenga,[Sem rotulo],,,0.26553375,10,6,1,0,3,0,0,'23,39,43'
+427,9236533842481264,Paulo Knauss de Mendonca,[Sem rotulo],,,0.34422404,49,14,6,28,1,0,0,'23,39,43'
+428,9247745962378331,Sergio Renato Lampert,[Sem rotulo],,,1.426053,12,4,0,3,3,0,2,'23,39,43'
+429,9272876595071941,Fatima Carvalho Correa,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+430,9293403585384915,Terezinha Elisabeth da Silva,[Sem rotulo],,,0.89283085,32,14,0,6,7,3,2,'23,39,43'
+431,9301864598959985,Silvia Lhamas de Mello,[Sem rotulo],,,0.5588365,5,0,0,0,5,0,0,'23,39,43'
+432,9315973007273871,Ana Maria de Rezende Cabral,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+433,9325854664190855,Sibeli Colere,[Sem rotulo],,,0.15,4,1,0,0,3,0,0,'23,39,43'
+434,9328976802509170,Neire do Rossio Martins,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+435,9350166082914057,Raquel Torres Thome,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+436,9391057804931698,Sueli Bortolin,[Sem rotulo],,,1.3133687,73,21,4,5,38,4,1,'23,39,43'
+437,9398149996443387,Clarissa Moreira dos Santos Schmidt,[Sem rotulo],,,0.9745213,25,5,1,14,5,0,0,'23,39,43'
+438,9401121435895486,Elizabeth Leao de Carvalho,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+439,9419427817757533,Ubirajara Carvalheira Costa,[Sem rotulo],,,0.72330576,4,3,0,0,1,0,0,'23,39,43'
+440,9453097597745835,Welder Antonio Silva,[Sem rotulo],,,0.6996878,27,5,0,12,5,0,5,'23,39,43'
+441,9458692701027903,Carla Regina Petropolis Vieira de Castro Freitas,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+442,9468076573004991,Wadson Silva Faria,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+443,9520620924539312,Wallace Pires de Carvalho,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+444,9521159257671677,Marco Aurelio Vannucchi Leme de Mattos,[Sem rotulo],,,0.8909541,14,4,4,2,2,0,2,'23,39,43'
+445,9531414417872156,Iris Helena Franca de Araujo,[Sem rotulo],,,1.0,3,0,0,3,0,0,0,'23,39,43'
+446,9549769948929633,Rosa Zuleide Lima de Brito,[Sem rotulo],,,0.77119654,13,3,0,1,8,0,1,'23,39,43'
+447,9575599426631865,Louise Anunciacao Fonseca de Oliveira do Amaral,[Sem rotulo],,,0.9910026,46,5,0,12,15,7,7,'23,39,43'
+448,9581203767519683,Maria Alexandra Miranda Aparicio,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+449,9622596375735979,Jane Lessa Moncao,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+450,9640543272532398,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,7.218986,117,89,7,6,12,0,3,'23,39,43'
+451,9648732999706904,Derek Warwick da Silva Tavares,[Sem rotulo],,,0.44363204,16,6,0,0,9,0,1,'23,39,43'
+452,9652229637215872,Lorena de Oliveira Souza Campello,[Sem rotulo],,,0.15,15,6,0,3,1,1,4,'23,39,43'
+453,9658762558629990,Isabel Cristina Borges de Oliveira,[Sem rotulo],,,0.43656036,7,2,4,1,0,0,0,'23,39,43'
+454,9716997139724273,Franciele Simon Carpes,[Sem rotulo],,,0.6270482,14,4,0,1,6,0,3,'23,39,43'
+455,9730657052089551,Maria Cristina Vendrameto,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,'23,39,43'
+456,9737143632051924,Ana Maria Pereira Cardoso,[Sem rotulo],,,0.28627884,27,12,1,4,7,1,2,'23,39,43'
+457,9794987194529294,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 1B,[Sem rotulo],,,1.8907106,80,24,13,37,1,0,5,'23,39,43'
+458,9810385462056973,Irisneide de Oliveira Souza Silva,[Sem rotulo],,,0.35224956,4,1,0,1,2,0,0,'23,39,43'
+459,9818647631143771,Juliana Fachin,[Sem rotulo],,,1.049257,9,6,0,1,1,0,1,'23,39,43'
+460,9832000444934835,Eneida Santana Baumann,[Sem rotulo],,,0.15,11,0,0,0,8,0,3,'23,39,43'
+461,9847960499982828,Bolsista de Produtividade em Pesquisa do CNPq - Nivel 2,[Sem rotulo],,,0.58812904,68,19,2,13,20,4,10,'23,39,43'
+462,9871189484278006,Luana Nascimento de Almeida,[Sem rotulo],,,0.15,2,0,0,0,2,0,0,'23,39,43'
+463,9890886509956837,Luciana Sa Leitao Correa de Araujo,[Sem rotulo],,,0.15,28,8,2,12,4,1,1,'23,39,43'
+464,9896600626524397,Ana Carolina Simionato,[Sem rotulo],,,2.560886,76,23,1,9,30,10,3,'23,39,43'
+465,9941441906608746,Renato Tarciso Barbosa de Sousa,[Sem rotulo],,,1.481545,24,13,2,7,2,0,0,'23,39,43'
+edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE
+0,30,2.0
+0,113,1.0
+0,138,1.0
+0,223,1.0
+0,269,7.0
+0,276,9.0
+0,345,1.0
+6,80,1.0
+6,275,1.0
+6,310,1.0
+6,409,1.0
+8,35,1.0
+8,307,2.0
+9,300,1.0
+9,427,1.0
+10,17,1.0
+11,164,1.0
+11,354,1.0
+12,43,1.0
+12,98,1.0
+12,236,1.0
+12,450,7.0
+14,40,1.0
+15,143,1.0
+15,377,1.0
+19,240,3.0
+19,395,1.0
+20,164,1.0
+20,317,1.0
+23,412,1.0
+24,73,1.0
+24,185,1.0
+24,321,3.0
+24,327,2.0
+24,450,3.0
+26,324,2.0
+29,126,1.0
+29,192,3.0
+29,300,1.0
+29,305,1.0
+29,322,1.0
+29,345,1.0
+29,426,1.0
+29,436,1.0
+30,276,8.0
+30,300,2.0
+30,306,2.0
+30,458,2.0
+31,353,1.0
+31,457,1.0
+32,45,7.0
+33,450,3.0
+34,129,1.0
+35,72,1.0
+35,138,1.0
+35,223,1.0
+35,250,1.0
+35,288,3.0
+35,306,1.0
+35,307,2.0
+35,347,1.0
+35,436,6.0
+36,262,3.0
+37,238,7.0
+37,344,2.0
+37,395,2.0
+37,464,8.0
+40,135,1.0
+40,200,1.0
+40,281,1.0
+42,50,8.0
+42,246,1.0
+42,330,7.0
+43,45,8.0
+43,246,1.0
+43,450,9.0
+44,202,4.0
+44,273,1.0
+45,126,1.0
+45,219,6.0
+45,238,1.0
+45,245,2.0
+45,262,2.0
+45,301,1.0
+45,307,1.0
+45,344,1.0
+45,396,1.0
+45,450,1.0
+49,379,3.0
+50,233,1.0
+50,236,2.0
+51,220,6.0
+51,269,1.0
+51,419,1.0
+55,84,1.0
+55,211,1.0
+55,304,1.0
+55,353,1.0
+56,211,1.0
+56,245,1.0
+60,76,1.0
+62,135,1.0
+62,219,1.0
+62,348,1.0
+63,326,1.0
+63,379,1.0
+64,161,1.0
+64,327,2.0
+70,121,1.0
+70,398,1.0
+71,396,1.0
+72,86,1.0
+72,173,1.0
+72,174,1.0
+72,211,1.0
+72,245,1.0
+73,174,1.0
+73,417,8.0
+74,84,1.0
+74,353,1.0
+74,400,1.0
+74,450,1.0
+75,412,1.0
+76,138,4.0
+76,262,1.0
+76,465,1.0
+80,296,1.0
+80,297,1.0
+80,389,2.0
+83,236,1.0
+84,102,1.0
+84,158,2.0
+84,353,1.0
+84,424,1.0
+84,437,1.0
+85,446,1.0
+86,211,1.0
+89,224,16.0
+91,275,2.0
+98,450,1.0
+99,143,1.0
+102,353,1.0
+102,457,1.0
+103,450,2.0
+105,457,1.0
+106,454,1.0
+107,220,1.0
+107,459,3.0
+110,328,1.0
+113,138,5.0
+113,143,1.0
+113,390,1.0
+115,143,1.0
+121,247,1.0
+121,398,1.0
+123,183,5.0
+126,150,5.0
+126,176,3.0
+126,295,6.0
+126,327,2.0
+126,331,1.0
+126,345,1.0
+126,352,2.0
+129,178,6.0
+129,200,1.0
+129,346,1.0
+130,246,4.0
+130,450,1.0
+135,200,1.0
+135,250,1.0
+138,143,1.0
+138,169,1.0
+138,257,1.0
+138,267,2.0
+138,274,10.0
+138,288,1.0
+138,299,3.0
+138,310,1.0
+138,327,3.0
+138,353,1.0
+138,390,1.0
+138,430,2.0
+138,444,1.0
+138,465,1.0
+141,394,1.0
+143,274,1.0
+143,353,1.0
+143,377,1.0
+143,390,1.0
+143,418,1.0
+143,465,1.0
+144,324,2.0
+145,250,6.0
+150,465,1.0
+151,152,2.0
+154,240,1.0
+154,262,6.0
+155,330,1.0
+156,211,1.0
+160,279,4.0
+161,428,2.0
+161,450,3.0
+162,278,1.0
+163,183,1.0
+164,227,2.0
+164,327,1.0
+164,352,1.0
+164,440,1.0
+166,348,1.0
+167,183,2.0
+169,457,1.0
+171,217,4.0
+171,279,1.0
+171,453,1.0
+172,246,1.0
+172,450,4.0
+173,174,2.0
+173,248,2.0
+173,288,1.0
+174,200,23.0
+178,199,1.0
+183,436,1.0
+185,299,2.0
+186,187,15.0
+191,370,2.0
+192,261,2.0
+192,305,1.0
+192,451,3.0
+192,461,4.0
+194,273,1.0
+194,367,1.0
+195,428,1.0
+196,272,1.0
+198,232,3.0
+201,269,1.0
+201,276,1.0
+201,395,5.0
+202,282,5.0
+203,278,5.0
+205,430,1.0
+207,274,7.0
+210,211,1.0
+210,245,4.0
+210,276,1.0
+211,245,1.0
+211,300,1.0
+211,437,3.0
+212,219,1.0
+215,374,4.0
+217,327,1.0
+217,418,4.0
+217,440,1.0
+217,450,1.0
+217,453,2.0
+219,240,1.0
+219,276,2.0
+219,395,1.0
+219,407,1.0
+219,464,4.0
+220,419,4.0
+223,262,1.0
+223,407,1.0
+231,244,1.0
+232,351,1.0
+234,450,1.0
+238,344,7.0
+238,345,1.0
+238,396,2.0
+240,270,1.0
+242,445,3.0
+245,269,1.0
+246,415,1.0
+246,450,1.0
+247,327,2.0
+247,440,1.0
+251,327,1.0
+254,413,1.0
+255,459,1.0
+260,450,2.0
+261,305,6.0
+261,389,34.0
+261,461,1.0
+262,347,1.0
+262,396,1.0
+262,403,3.0
+262,418,1.0
+264,345,1.0
+267,380,3.0
+267,464,1.0
+269,300,13.0
+269,327,2.0
+270,327,1.0
+274,288,1.0
+274,376,3.0
+274,381,2.0
+276,300,3.0
+276,306,2.0
+276,373,1.0
+277,447,5.0
+279,350,5.0
+279,353,1.0
+279,354,2.0
+279,437,1.0
+281,348,1.0
+281,398,1.0
+282,367,1.0
+282,450,1.0
+288,306,1.0
+288,327,1.0
+288,380,1.0
+289,291,1.0
+291,310,1.0
+291,457,3.0
+294,465,1.0
+295,352,1.0
+296,297,21.0
+299,318,6.0
+299,353,1.0
+299,447,1.0
+300,348,1.0
+300,353,1.0
+300,396,2.0
+300,427,1.0
+301,347,2.0
+306,395,1.0
+306,458,2.0
+306,465,1.0
+307,439,5.0
+310,444,1.0
+310,457,2.0
+312,444,1.0
+314,340,1.0
+314,395,1.0
+318,345,1.0
+318,450,1.0
+321,327,1.0
+322,407,2.0
+327,353,4.0
+327,364,1.0
+327,371,5.0
+327,431,3.0
+327,456,1.0
+327,465,1.0
+328,395,1.0
+330,450,3.0
+333,409,3.0
+335,378,1.0
+344,389,1.0
+344,396,1.0
+344,464,23.0
+345,450,1.0
+346,407,1.0
+348,464,1.0
+353,401,1.0
+353,444,1.0
+353,457,1.0
+353,465,1.0
+354,446,1.0
+357,465,1.0
+360,406,3.0
+376,381,1.0
+377,428,1.0
+377,450,1.0
+380,407,4.0
+389,461,1.0
+395,430,2.0
+396,436,2.0
+405,450,1.0
+407,424,1.0
+417,459,1.0
+417,465,1.0
+428,450,6.0
+450,454,1.0
